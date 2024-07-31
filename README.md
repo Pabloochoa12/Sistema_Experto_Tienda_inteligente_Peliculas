@@ -1,6 +1,10 @@
 
 # Documentación del Sistema de Recomendación de Películas
 
+link video:
+programa funcional Sisitema_ex.py
+programa no funcional Sistema_experto.py tiene algunos errores 
+
 ## Introducción
 
 Este proyecto implementa un sistema de recomendación de películas utilizando embeddings y un modelo de red neuronal. El sistema permite a los usuarios recibir recomendaciones de películas basadas en sus calificaciones anteriores y también les permite calificar nuevas películas. El modelo se entrena con datos de calificaciones de películas y usuarios, y se actualiza dinámicamente a medida que se añaden nuevas calificaciones.
