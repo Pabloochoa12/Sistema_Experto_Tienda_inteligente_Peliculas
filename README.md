@@ -31,31 +31,31 @@ NumPy
 # Instalación
 Clona el repositorio:
 
-bash
+```bash
 Copiar código
 git clone https://github.com/tu_usuario/sistema-recomendacion-peliculas.git
 Navega al directorio del proyecto:
-
-bash
+```
+```bash
 Copiar código
 cd sistema-recomendacion-peliculas
 Instala las dependencias:
-
-bash
+```
+```bash
 Copiar código
 pip install -r requirements.txt
-
+```
 # Uso
 Para ejecutar el sistema de recomendación de películas, usa el siguiente comando:
 
-bash
+```bash
 Copiar código
 python main.py
-
+```
 Sigue las instrucciones en la consola para obtener recomendaciones, calificar películas o salir del programa.
 
 # Estructura del Código
-bash
+```bash
 Copiar código
 sistema-recomendacion-peliculas/
 │
@@ -64,6 +64,7 @@ sistema-recomendacion-peliculas/
 ├── data.py             # Generación y manejo de la base de datos de calificaciones
 ├── requirements.txt    # Lista de dependencias del proyecto
 └── README.md           # Documentación del proyecto
+```
 # main.py
 Este archivo contiene la interfaz de consola que permite interactuar con el sistema, obteniendo recomendaciones y registrando nuevas calificaciones.
 # model.py
